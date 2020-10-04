@@ -1,1 +1,1 @@
-aruhfilm.github.io/festival
+https://aruhfilm.github.io/festival
