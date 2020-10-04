@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html  >
 <head>
   <!-- Site made with Mobirise Website Builder v4.11.6, https://mobirise.com -->
