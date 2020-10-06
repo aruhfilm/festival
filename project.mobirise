@@ -73,7 +73,7 @@
         "url": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/logo-merah-128x96-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-merah.png",
     "noImageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
